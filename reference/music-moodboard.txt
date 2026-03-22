@@ -1,0 +1,7 @@
+# Music Mood Board Reference
+# Streaming links only — no audio files stored here.
+# Used by audio grooming agent to derive Tone.js synthesis parameters.
+
+HEAT_0_AMBIENT: https://www.youtube.com/watch?v=gOQs3dX0H6s (Syndicate OST - reference vibe)
+HEAT_2_COMBAT: (to be found during audio grooming)
+HEAT_4_LOCKDOWN: (to be found during audio grooming)
